@@ -1,9 +1,9 @@
 ﻿{
-  "artifactVersion": "2.0.1",
-  "gitUserId": "Cloudmersive",
-  "gitRepoId": "Cloudmersive.APIClient.PHP.Configuration",
-  "composerVendorName": "cloudmersive",
-  "composerProjectName": "cloudmersive_configuration_api_client",
-  "packagePath": "cloudmersive_configuration_api_client"
-  
-}  
+    "artifactVersion": "2.0.2",
+    "gitUserId": "Cloudmersive",
+    "gitRepoId": "Cloudmersive.APIClient.PHP.Configuration",
+    "composerVendorName": "cloudmersive",
+    "composerProjectName": "cloudmersive_configuration_api_client",
+    "packagePath": "cloudmersive_configuration_api_client"
+
+}
